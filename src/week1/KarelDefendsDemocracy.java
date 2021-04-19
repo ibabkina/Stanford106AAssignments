@@ -16,6 +16,9 @@ package week1;
  * below the middle row and removes any beepers. A column may contain any 
  * number of beepers. Karel ends execution facing East at the rightmost edge of 
  * the ballot in the middle row. 
+ * 
+ *  @author Irina Babkina
+ *  
  */
 
 import stanford.karel.*;
