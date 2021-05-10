@@ -56,9 +56,7 @@ public class Histograms extends ConsoleProgram {
 					int range = score / 10;
 					histogramArr[range]++;
 				}
-				//scores = addElementToArray(score, scores);
-				
-				
+				//scores = addElementToArray(score, scores);				
 			}	
 
 			rd.close();
